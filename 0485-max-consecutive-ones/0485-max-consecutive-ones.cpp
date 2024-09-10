@@ -12,7 +12,6 @@ public:
             }
 
         }
-        cmax=max(cmax, count);
-        return cmax;
+        return cmax; 
     }
 };
