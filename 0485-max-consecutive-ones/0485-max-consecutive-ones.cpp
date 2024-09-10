@@ -6,9 +6,8 @@ public:
         for(int i=0; i<n; i++){
             if(nums[i]==1){
                 count++;
-                
-            }else{
                 cmax=max(cmax, count);
+            }else{
                 count=0;
             }
 
