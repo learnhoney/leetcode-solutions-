@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/learnhoney/leetcode-solutions-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/learnhoney/leetcode-solutions-/tree/master/0485-max-consecutive-ones) |
+| [0966-binary-subarrays-with-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0966-binary-subarrays-with-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/learnhoney/leetcode-solutions-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0268-missing-number) |
+| [0966-binary-subarrays-with-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0966-binary-subarrays-with-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0966-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
