@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/learnhoney/leetcode-solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/learnhoney/leetcode-solutions-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/learnhoney/leetcode-solutions-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/learnhoney/leetcode-solutions-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/learnhoney/leetcode-solutions-/tree/master/0283-move-zeroes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/learnhoney/leetcode-solutions-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/learnhoney/leetcode-solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0966-binary-subarrays-with-sum) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/learnhoney/leetcode-solutions-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/learnhoney/leetcode-solutions-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -57,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/learnhoney/leetcode-solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0966-binary-subarrays-with-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/learnhoney/leetcode-solutions-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/learnhoney/leetcode-solutions-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
