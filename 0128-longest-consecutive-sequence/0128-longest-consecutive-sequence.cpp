@@ -11,9 +11,9 @@ public:
         for(int i=0; i<n; i++){
             if(nums[i]-1==lastelement){
                 currcount++;
-            }else if(nums[i]==lastelement){
+            }else if(nums[i]==lastelement){   //ignoring duplicates
                 continue;
-            }else{
+            }else{                            //new starting point 
                 currcount=1;
             }
         lastelement=nums[i];
