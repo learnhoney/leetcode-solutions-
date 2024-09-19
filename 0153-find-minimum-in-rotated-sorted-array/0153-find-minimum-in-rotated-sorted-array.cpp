@@ -8,7 +8,7 @@ public:
             int mid=(low+high)/2;
             if(nums[low]<nums[high]){
                 ans=min(ans, nums[low]);
-                low=mid+1;
+                break;
             }
 
             if(nums[low]<=nums[mid]){
