@@ -3,7 +3,7 @@ public:
     long long rate(vector<int>& piles, int hoursatmid){
         long long tothrs=0;
         for(double i: piles){
-            tothrs+=ceil(i/hoursatmid);
+            tothrs+=(i+hoursatmid-1)/hoursatmid;
         }
         return tothrs;
     }
