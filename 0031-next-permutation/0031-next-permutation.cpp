@@ -10,17 +10,17 @@ public:
             }
         }
         if(dip==-1){
-            reverse(nums.begin(), nums.end());
+            reverse(nums.begin(),nums.end());
             return;
         }
 
-        for(int i=n-1; i>dip; i--){
+        for(int i=n-1; i>dip;i--){
             if(nums[i]>nums[dip]){
                 swap(nums[i],nums[dip]);
-                break;
+                break;      //find only first dip point and reverse cux "next" permutation is the largest one in its sequence
             }
         }
+
         reverse(nums.begin()+dip+1, nums.end());
-        
-    }   
+    }
 };
