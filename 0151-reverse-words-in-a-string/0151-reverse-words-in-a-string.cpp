@@ -19,7 +19,7 @@ public:
         if(helper.size()!=0){
             reverse(helper.begin(),helper.end());
             ans+=helper;
-        }else if(ans.size()!=0) ans.pop_back();
+        }else if(ans.size()!=0) ans.pop_back();  //removing last space added 
         return ans;
     }
 };
