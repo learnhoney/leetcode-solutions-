@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/learnhoney/leetcode-solutions-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/learnhoney/leetcode-solutions-/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/learnhoney/leetcode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/learnhoney/leetcode-solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0966-binary-subarrays-with-sum) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/learnhoney/leetcode-solutions-/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/learnhoney/leetcode-solutions-/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/learnhoney/leetcode-solutions-/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/learnhoney/leetcode-solutions-/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
