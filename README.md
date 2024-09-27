@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/learnhoney/leetcode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/learnhoney/leetcode-solutions-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/learnhoney/leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/learnhoney/leetcode-solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0966-binary-subarrays-with-sum) |
 ## Binary Search
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/learnhoney/leetcode-solutions-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/learnhoney/leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/learnhoney/leetcode-solutions-/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/learnhoney/leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/learnhoney/leetcode-solutions-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/learnhoney/leetcode-solutions-/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/learnhoney/leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/learnhoney/leetcode-solutions-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/learnhoney/leetcode-solutions-/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
@@ -215,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/learnhoney/leetcode-solutions-/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/learnhoney/leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/learnhoney/leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
