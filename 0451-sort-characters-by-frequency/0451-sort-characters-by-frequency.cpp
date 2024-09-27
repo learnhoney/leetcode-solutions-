@@ -27,3 +27,4 @@ public:
         return res;
     }
 };
+//priority que mei rakho count of chars and chars jo mila hmmei hashmap se jismei hmne count ++ kiya fir result string mei tempoaray var use krke usko insert krdiya......already sorted by no. aaya kyunki priority queue max hheap thi to count greator to smaller tha
