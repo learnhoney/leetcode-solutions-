@@ -1,31 +1,33 @@
 class Solution {
 public:
-    int myAtoi(string s) {
-        int i=0;
-        int sign=1;
-        long ans=0;
-        while(i<s.length() && s[i]==' '){
-            i++;
+long long solver(string s,int sign,int i,long long res){
+    if(sign*res >= INT_MAX) return INT_MAX;
+        
+    if(sign*res <= INT_MIN) return INT_MIN;
+        
+    if(s[i] == ' ' || !isdigit(s[i])) return res*sign;
+    
+    int sol = s[i] - '0';
+    
+    return solver(s, sign, i+1, res*10+sol);
+    }
+    
+int myAtoi(string s) {
+    int flag = 0;
+    int sign = 1;
+    int i = 0;
+    while (i<s.size() && s[i] == ' ') i++;
+    if(s[i] == '-'){
+        sign = -1;
+        i++;
+        flag++;
         }
-        if(s[i]=='-'){
-            sign=-1;
-            i++;
-        }else if(s[i]=='+'){
-            i++;
+    if(s[i] == '+'){
+        sign = 1;
+        i++;
+        flag++;
         }
-        while(i<s.length()){
-            if(s[i]>='0' && s[i]<='9'){
-                ans=ans*10+(s[i]-'0');
-                if(ans>INT_MAX && sign==-1){
-                    return INT_MIN;
-                }else if(ans>INT_MAX && sign==1){
-                    return INT_MAX;
-                }
-                i++;
-            }else{
-                return ans*sign;
-            }
-        }
-        return (ans*sign);
+    if(flag > 1) return 0;
+    return solver(s,sign,i,0);
     }
 };
