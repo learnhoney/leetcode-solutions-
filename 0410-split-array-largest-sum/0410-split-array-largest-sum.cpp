@@ -1,33 +1,34 @@
 class Solution {
 public:
 
-    int count(std::vector<int>& nums, int cap, int k) {
-        int splitcnt = 1, sum = 0;
+    int helper(vector<int>& nums, int mid, int k){
+        int splitidx = 1, sum = 0;
 
-        for (int i = 0; i < nums.size(); i++) {
-            if (sum + nums[i] > cap) {
+        for(int i = 0; i<nums.size(); i++){
+            if(sum + nums[i] > mid){
                 sum = nums[i];
-                splitcnt++;
-            } else {
+                splitidx++;
+
+            }else{
                 sum += nums[i];
             }
         }
-        return splitcnt;
+        return splitidx;
     }
 
-    int splitArray(std::vector<int>& nums, int k) {
+    int splitArray(vector<int>& nums, int k) {
         int low = *max_element(nums.begin(), nums.end());
         int high = accumulate(nums.begin(), nums.end(), 0);
-        
-        while (low <= high) {
+
+        while(low <= high){
             int mid = (low + high) / 2;
-            if (count(nums, mid, k) <= k) {
+
+            if(helper(nums, mid, k) <= k){
                 high = mid - 1;
-            } else {
+            }else{
                 low = mid + 1;
             }
         }
-        
         return low;
     }
 };
