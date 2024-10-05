@@ -16,22 +16,22 @@ public:
         for(int i = 1; i < a; i++){
             temp = temp->next;
         }
-        ListNode* end1 = temp;
-        ListNode* remove1 = temp->next;
+        ListNode* startl1 = temp;
+        ListNode* endl1 = temp->next;
 
         for(int i = a; i <= b; i++){
-            ListNode* temp1 = remove1;
-            remove1 = remove1->next;
+            ListNode* temp1 = endl1;
+            endl1 = endl1->next;
             delete temp1;
             }
 
-        end1->next = list2;
+        startl1->next = list2;
 
         while(temp->next){
             temp = temp->next;
             }
 
-        temp->next = remove1;
+        temp->next = endl1;
     
     return head;
     }
