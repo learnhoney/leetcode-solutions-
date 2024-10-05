@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/learnhoney/leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/learnhoney/leetcode-solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0966-binary-subarrays-with-sum) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/learnhoney/leetcode-solutions-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/learnhoney/leetcode-solutions-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/learnhoney/leetcode-solutions-/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0268-missing-number) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/learnhoney/leetcode-solutions-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/learnhoney/leetcode-solutions-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/learnhoney/leetcode-solutions-/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0966-binary-subarrays-with-sum) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/learnhoney/leetcode-solutions-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1603-running-sum-of-1d-array](https://github.com/learnhoney/leetcode-solutions-/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/learnhoney/leetcode-solutions-/tree/master/2714-left-and-right-sum-differences) |
 ## Divide and Conquer
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/learnhoney/leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/learnhoney/leetcode-solutions-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/learnhoney/leetcode-solutions-/tree/master/1078-remove-outermost-parentheses) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/learnhoney/leetcode-solutions-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/learnhoney/leetcode-solutions-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/learnhoney/leetcode-solutions-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Stack
