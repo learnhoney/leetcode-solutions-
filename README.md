@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/learnhoney/leetcode-solutions-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/learnhoney/leetcode-solutions-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2294-minimum-time-to-complete-trips](https://github.com/learnhoney/leetcode-solutions-/tree/master/2294-minimum-time-to-complete-trips) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/learnhoney/leetcode-solutions-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2714-left-and-right-sum-differences](https://github.com/learnhoney/leetcode-solutions-/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/learnhoney/leetcode-solutions-/tree/master/0283-move-zeroes) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/learnhoney/leetcode-solutions-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/learnhoney/leetcode-solutions-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/learnhoney/leetcode-solutions-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/learnhoney/leetcode-solutions-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/1646-kth-missing-positive-number) |
 | [2294-minimum-time-to-complete-trips](https://github.com/learnhoney/leetcode-solutions-/tree/master/2294-minimum-time-to-complete-trips) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/learnhoney/leetcode-solutions-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/learnhoney/leetcode-solutions-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/learnhoney/leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/learnhoney/leetcode-solutions-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
 |  |
 | ------- |
