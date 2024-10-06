@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/learnhoney/leetcode-solutions-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/learnhoney/leetcode-solutions-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/learnhoney/leetcode-solutions-/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3379-score-of-a-string](https://github.com/learnhoney/leetcode-solutions-/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
