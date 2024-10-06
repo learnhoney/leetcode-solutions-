@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/learnhoney/leetcode-solutions-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/learnhoney/leetcode-solutions-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2294-minimum-time-to-complete-trips](https://github.com/learnhoney/leetcode-solutions-/tree/master/2294-minimum-time-to-complete-trips) |
 | [2714-left-and-right-sum-differences](https://github.com/learnhoney/leetcode-solutions-/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/learnhoney/leetcode-solutions-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/learnhoney/leetcode-solutions-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/1646-kth-missing-positive-number) |
+| [2294-minimum-time-to-complete-trips](https://github.com/learnhoney/leetcode-solutions-/tree/master/2294-minimum-time-to-complete-trips) |
 ## Bit Manipulation
 |  |
 | ------- |
