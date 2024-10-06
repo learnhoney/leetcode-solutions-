@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/learnhoney/leetcode-solutions-/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/learnhoney/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/learnhoney/leetcode-solutions-/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/learnhoney/leetcode-solutions-/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/learnhoney/leetcode-solutions-/tree/master/0485-max-consecutive-ones) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/learnhoney/leetcode-solutions-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/learnhoney/leetcode-solutions-/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/learnhoney/leetcode-solutions-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/learnhoney/leetcode-solutions-/tree/master/0540-single-element-in-a-sorted-array) |
