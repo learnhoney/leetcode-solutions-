@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/learnhoney/leetcode-solutions-/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/learnhoney/leetcode-solutions-/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/learnhoney/leetcode-solutions-/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/learnhoney/leetcode-solutions-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/learnhoney/leetcode-solutions-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/learnhoney/leetcode-solutions-/tree/master/1603-running-sum-of-1d-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/learnhoney/leetcode-solutions-/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/learnhoney/leetcode-solutions-/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/learnhoney/leetcode-solutions-/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/learnhoney/leetcode-solutions-/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/learnhoney/leetcode-solutions-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/learnhoney/leetcode-solutions-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/learnhoney/leetcode-solutions-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/learnhoney/leetcode-solutions-/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/learnhoney/leetcode-solutions-/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/learnhoney/leetcode-solutions-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/learnhoney/leetcode-solutions-/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/learnhoney/leetcode-solutions-/tree/master/1046-max-consecutive-ones-iii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/learnhoney/leetcode-solutions-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1603-running-sum-of-1d-array](https://github.com/learnhoney/leetcode-solutions-/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/learnhoney/leetcode-solutions-/tree/master/2714-left-and-right-sum-differences) |
