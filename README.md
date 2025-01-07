@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/learnhoney/leetcode-solutions-/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/learnhoney/leetcode-solutions-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/learnhoney/leetcode-solutions-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1524-string-matching-in-an-array](https://github.com/learnhoney/leetcode-solutions-/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/learnhoney/leetcode-solutions-/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/learnhoney/leetcode-solutions-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/learnhoney/leetcode-solutions-/tree/master/1646-kth-missing-positive-number) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/learnhoney/leetcode-solutions-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/learnhoney/leetcode-solutions-/tree/master/1078-remove-outermost-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/learnhoney/leetcode-solutions-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/learnhoney/leetcode-solutions-/tree/master/1524-string-matching-in-an-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/learnhoney/leetcode-solutions-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/learnhoney/leetcode-solutions-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/learnhoney/leetcode-solutions-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/learnhoney/leetcode-solutions-/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/learnhoney/leetcode-solutions-/tree/master/1524-string-matching-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
