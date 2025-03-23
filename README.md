@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/learnhoney/leetcode-solutions-/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/learnhoney/leetcode-solutions-/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0966-binary-subarrays-with-sum) |
+| [1039-find-the-town-judge](https://github.com/learnhoney/leetcode-solutions-/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/learnhoney/leetcode-solutions-/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/learnhoney/leetcode-solutions-/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/learnhoney/leetcode-solutions-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/learnhoney/leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/learnhoney/leetcode-solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0966-binary-subarrays-with-sum) |
+| [1039-find-the-town-judge](https://github.com/learnhoney/leetcode-solutions-/tree/master/1039-find-the-town-judge) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/learnhoney/leetcode-solutions-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/learnhoney/leetcode-solutions-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/learnhoney/leetcode-solutions-/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -355,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/learnhoney/leetcode-solutions-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/learnhoney/leetcode-solutions-/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/learnhoney/leetcode-solutions-/tree/master/0216-combination-sum-iii) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/learnhoney/leetcode-solutions-/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
