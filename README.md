@@ -361,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/learnhoney/leetcode-solutions-/tree/master/1039-find-the-town-judge) |
+## Database
+|  |
+| ------- |
+| [2127-employees-whose-manager-left-the-company](https://github.com/learnhoney/leetcode-solutions-/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
