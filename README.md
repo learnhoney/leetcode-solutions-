@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0626-exchange-seats](https://github.com/learnhoney/leetcode-solutions-/tree/master/0626-exchange-seats) |
 | [2057-count-salary-categories](https://github.com/learnhoney/leetcode-solutions-/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/learnhoney/leetcode-solutions-/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
