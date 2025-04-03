@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/learnhoney/leetcode-solutions-/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/learnhoney/leetcode-solutions-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2714-left-and-right-sum-differences](https://github.com/learnhoney/leetcode-solutions-/tree/master/2714-left-and-right-sum-differences) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/learnhoney/leetcode-solutions-/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/learnhoney/leetcode-solutions-/tree/master/1039-find-the-town-judge) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/learnhoney/leetcode-solutions-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/learnhoney/leetcode-solutions-/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/learnhoney/leetcode-solutions-/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/learnhoney/leetcode-solutions-/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/learnhoney/leetcode-solutions-/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/learnhoney/leetcode-solutions-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/learnhoney/leetcode-solutions-/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/learnhoney/leetcode-solutions-/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Union Find
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/learnhoney/leetcode-solutions-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/learnhoney/leetcode-solutions-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/learnhoney/leetcode-solutions-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/learnhoney/leetcode-solutions-/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/learnhoney/leetcode-solutions-/tree/master/3379-score-of-a-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/learnhoney/leetcode-solutions-/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
