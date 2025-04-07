@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/learnhoney/leetcode-solutions-/tree/master/0207-course-schedule) |
 | [1039-find-the-town-judge](https://github.com/learnhoney/leetcode-solutions-/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/learnhoney/leetcode-solutions-/tree/master/1916-find-center-of-star-graph) |
 ## Database
 |  |
 | ------- |
