@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/learnhoney/leetcode-solutions-/tree/master/0128-longest-consecutive-sequence) |
+| [0801-is-graph-bipartite](https://github.com/learnhoney/leetcode-solutions-/tree/master/0801-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/learnhoney/leetcode-solutions-/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/learnhoney/leetcode-solutions-/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/learnhoney/leetcode-solutions-/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/learnhoney/leetcode-solutions-/tree/master/1916-find-center-of-star-graph) |
 ## Database
@@ -377,10 +379,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/learnhoney/leetcode-solutions-/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/learnhoney/leetcode-solutions-/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/learnhoney/leetcode-solutions-/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/learnhoney/leetcode-solutions-/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
