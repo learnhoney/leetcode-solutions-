@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/learnhoney/leetcode-solutions-/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/learnhoney/leetcode-solutions-/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/learnhoney/leetcode-solutions-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/learnhoney/leetcode-solutions-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -407,4 +408,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/learnhoney/leetcode-solutions-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/learnhoney/leetcode-solutions-/tree/master/0210-course-schedule-ii) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/learnhoney/leetcode-solutions-/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/learnhoney/leetcode-solutions-/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/learnhoney/leetcode-solutions-/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
