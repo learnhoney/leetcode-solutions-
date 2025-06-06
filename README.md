@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/learnhoney/leetcode-solutions-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/learnhoney/leetcode-solutions-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/learnhoney/leetcode-solutions-/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/learnhoney/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/learnhoney/leetcode-solutions-/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/learnhoney/leetcode-solutions-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/learnhoney/leetcode-solutions-/tree/master/0053-maximum-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/learnhoney/leetcode-solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/learnhoney/leetcode-solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/learnhoney/leetcode-solutions-/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/learnhoney/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/learnhoney/leetcode-solutions-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/learnhoney/leetcode-solutions-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/learnhoney/leetcode-solutions-/tree/master/0088-merge-sorted-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/learnhoney/leetcode-solutions-/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/learnhoney/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/learnhoney/leetcode-solutions-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/learnhoney/leetcode-solutions-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/learnhoney/leetcode-solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/learnhoney/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/learnhoney/leetcode-solutions-/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/learnhoney/leetcode-solutions-/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/learnhoney/leetcode-solutions-/tree/master/1078-remove-outermost-parentheses) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/learnhoney/leetcode-solutions-/tree/master/0042-trapping-rain-water) |
 | [0937-online-stock-span](https://github.com/learnhoney/leetcode-solutions-/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
