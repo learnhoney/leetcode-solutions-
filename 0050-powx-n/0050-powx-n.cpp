@@ -1,19 +1,23 @@
 class Solution {
 public:
-    double myPow(double x, int n) {
-        double ans = 1.0;
-        long nn = n;
-        if(nn<0) nn = -1*nn;
-        while(nn > 0){
-            if(nn % 2 == 1){
-                ans = ans * x;
-                nn = nn-1;
-            }else{
-                x = x*x;
-                nn = nn/2;
-            }
+
+    double helper(double num, int pow){
+        if(pow == 0){
+            return 1;
         }
-        if(n<0) ans = (double)(1.0) / (double)(ans);
-        return ans;
+        return num * helper(num, pow-1);
+    }
+    double myPow(double num, int pow) {
+        if(pow == INT_MAX) return (num == 1)? 1 : (num == -1)? -1 :0;
+        if(pow == INT_MIN) return (num == 1 || num == -1)? 1: 0;
+        double res = 1;
+        if(pow >= 0){                   //positive int power 
+            res = helper(num, pow);
+        }else{                         //neg power so 1/x**n == x**-n
+            pow = -pow;                 //convert neg pow to +pow by -(-pow)
+            res = helper(num , pow);      //calc x**n
+            res = 1.0/res;               //calc x**-n
+        }
+        return res;
     }
 };
