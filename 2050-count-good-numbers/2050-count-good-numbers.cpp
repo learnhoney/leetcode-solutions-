@@ -11,12 +11,12 @@ public:
         }
       }
     int countGoodNumbers(long long n) {
-        long long even = n / 2 + n % 2;
+        long long even = (n + 1)/ 2;
         long long odd = n/2;
-        long long first = solve(5, even);
-        long long second = solve(4, odd);
+        long long evenways = solve(5, even);
+        long long oddways = solve(4, odd);
 
-        long long ans = ((first) * (second)) % mod;
+        long long ans = ((evenways) * (oddways)) % mod;
         return ans;
     }
 };
