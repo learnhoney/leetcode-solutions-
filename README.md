@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/learnhoney/leetcode-solutions-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/learnhoney/leetcode-solutions-/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/learnhoney/leetcode-solutions-/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/learnhoney/leetcode-solutions-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/learnhoney/leetcode-solutions-/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/learnhoney/leetcode-solutions-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/learnhoney/leetcode-solutions-/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/learnhoney/leetcode-solutions-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/learnhoney/leetcode-solutions-/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/learnhoney/leetcode-solutions-/tree/master/3379-score-of-a-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/learnhoney/leetcode-solutions-/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/learnhoney/leetcode-solutions-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
